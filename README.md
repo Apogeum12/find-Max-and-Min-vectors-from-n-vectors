@@ -47,4 +47,4 @@ On Windows you must install Cmake and MinGW application before compile algorithm
  > Max: 9 7
  > Min: 1 0
  ```
-![test3](https://user-images.githubusercontent.com/35242996/46587937-2afd1600-ca94-11e8-8289-9faf0bc82f4c.PNG)
+![test4](https://user-images.githubusercontent.com/35242996/46588032-88459700-ca95-11e8-8824-c3b8c924d071.PNG)
