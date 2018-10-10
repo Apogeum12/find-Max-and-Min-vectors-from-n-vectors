@@ -15,8 +15,7 @@ public:
 	std::vector<double> getMaxA() { return MaxA; }
 	std::vector<double> getMinA() { return MinA; }
 
-	void searchMaxA();
-	void searchMinA();
+	void searchMaxMinA();
 	
 	//Dla sprawdzenia czy dzila
 	void printToConsole();
